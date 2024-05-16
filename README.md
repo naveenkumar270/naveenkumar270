@@ -29,15 +29,3 @@
 
 
 
-<h3>Statistics :-</h3>
-<span>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumar270&show_icons=true&locale=en&layout=compact&theme=radical" alt="naveenkumar270" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumar270&show_icons=true&locale=en&theme=radical" alt="naveenkumar270" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumar270&theme=radical" alt="naveenkumar270" /></p>
-<br>
-<h3>Trophies :-</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumar270&theme=radical" alt="naveenkumar270" /></a> </p>
